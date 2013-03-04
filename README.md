@@ -1,7 +1,7 @@
 bootstrap-multiselect-selectall
 ===============================
 
-Extend the standard bootstrap-multiselect to have select all and divider support.
+Extend [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) to have select all and divider support.
 
 Implementation
 ==============
